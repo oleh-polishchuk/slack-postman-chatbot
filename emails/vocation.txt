@@ -1,0 +1,16 @@
+Here is an example of vocation letter:
+
+```
+
+To: toplab.hr@gmail.com, alyona.vlasiuk@titanium-tech.net, anastasia.fox.moc@gmail.com
+Subject: Прохання про відгул
+------------------------------------------------------------------------------------------------------------------------
+
+Привіт.
+
+Хочу взяти відгул на 20.07.2018. Всього 1 робочий день.
+З CTO Daniel Engelman відпустка узгоджена.
+
+Дякую.
+
+```
