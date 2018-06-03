@@ -16,3 +16,7 @@ To run server
 To run ngrok (MacOS)
 
     ./ngrok http 3000
+
+To run in background (Ubuntu)
+
+    ngrok http 3000 > /dev/null &
